@@ -23,7 +23,7 @@ El análisis se basa en un modelo de datos construido a partir de las tablas:
 
 El reporte está compuesto por dos páginas principales que permiten un análisis general y un análisis detallado de las ventas.
 
-------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 1. Overview
 
@@ -46,7 +46,7 @@ Visualizaciones incluidas:
 
 Esta página permite obtener rápidamente una visión general del desempeño comercial.
 
-------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### 2. Detalle de Ventas
 
@@ -69,7 +69,7 @@ Visualizaciones incluidas:
 
 Esta sección permite profundizar en el análisis de ventas y detectar patrones o comportamientos del negocio.
 
-------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Principales insights
 
@@ -83,7 +83,7 @@ A partir del dashboard es posible analizar:
 
 El uso de segmentadores permite realizar un análisis interactivo y dinámico de la información.
 
-------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Vista del dashboard
 
@@ -95,7 +95,7 @@ El uso de segmentadores permite realizar un análisis interactivo y dinámico de
 
 ![Detalle](dashboard_detalle.png)
 
-------------------------------------------------------------------------------------------------------------------------------
+---
 
 ## Archivos del proyecto
 
